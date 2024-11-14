@@ -4,5 +4,8 @@ pymysql
 mysql-connector-python
 python-dotenv
 scikit-learn
+seaborn
+catboost
+xgboost
 
 #git -e .
