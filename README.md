@@ -1,12 +1,6 @@
 ## End to End Data science project  
 
-import dagshub
-dagshub.init(repo_owner='saurabhwalde2', repo_name='ml-project', mlflow=True)
 
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
 
 
 MLFLOW_TRACKING_URI= https://dagshub.com/saurabhwalde2/ml-project.mlflow \
