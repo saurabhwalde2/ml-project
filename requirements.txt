@@ -1,11 +1,11 @@
-pandas 
-numpy 
-pymysql
-mysql-connector-python
+numpy
+pandas
 python-dotenv
+mysql-connector-python
+pymysql
 scikit-learn
 seaborn
 catboost
 xgboost
-
-#git -e .
+mlflow
+#-e .
