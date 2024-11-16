@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs%20code%20project/ML%20project/mlruns/0/1fe4658caf2a4e519e2ea63185587ef4/artifacts
+end_time: 1731770313697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fe4658caf2a4e519e2ea63185587ef4
+run_name: bedecked-loon-21
+run_uuid: 1fe4658caf2a4e519e2ea63185587ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731770305377
+status: 3
+tags: []
+user_id: root
